@@ -2,3 +2,4 @@ some config that was added after init
 need to pull this
 endnu en rettelse
 noget lavet lokalt
+even more local
